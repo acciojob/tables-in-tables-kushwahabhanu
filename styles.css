@@ -1,2 +1,13 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. */   
+/* Your CSS Code here. *//* Your CSS Code here. */
+table,th,td{
+	border:2px solid black;
+	width:100%;
+	table-layout:fixed;
+	text-align:center;
+}
+.color{
+	color:white;
+	background-color:black;
+}
